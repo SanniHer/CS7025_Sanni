@@ -1,0 +1,22 @@
+.student {
+	font-family: sans-serif;
+	color: midnightblue;
+}
+
+ul {
+	list-style: none;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+li span {
+	display: inline-block;
+	width: 5vw;
+}
+
+.treat_name {
+	text-transform: capitalize;
+}
+.treat_type {
+	color: gray;
+}
