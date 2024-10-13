@@ -1,4 +1,4 @@
-const API_KEY = "";
+const API_KEY = "05d9d13cb23e4db6b5c2b9eece3e492e";
 
 document.addEventListener("DOMContentLoaded", async () => {
   console.log("DOM loaded");
