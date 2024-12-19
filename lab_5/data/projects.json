@@ -1,0 +1,70 @@
+
+{
+    "projects": [{
+            "Name": "Audio Soundscape",
+            "Date": "09.09.2023",
+            "Tags": ["Audio"],
+            "Description": "An immersive audio soundscape created to evoke different moods using ambient sounds."
+        },
+        {
+            "Name": "Game Analysis",
+            "Date": "19.09.2023",
+            "Tags": ["Games", "Research"],
+            "Description": "A detailed analysis of game mechanics and their impact on player engagement and experience."
+        },
+        {
+            "Name": "Web Accessibility",
+            "Date": "19.09.2023",
+            "Tags": ["Research"],
+            "Description": "Research on web accessibility standards and implementation to ensure an inclusive user experience."
+        },
+        {
+            "Name": "Restaurant Website",
+            "Date": "01.10.2023",
+            "Tags": ["WebDev", "UI/UX"],
+            "Description": "A fully responsive website designed for a restaurant, featuring a menu, reservation system, and customer reviews."
+        },
+        {
+            "Name": "Museum Branding",
+            "Date": "10.10.2023",
+            "Tags": ["Branding & Design"],
+            "Description": "A branding project for a museum, including logo design, color palette, and promotional materials."
+        },
+        {
+            "Name": "Virtual Reality Mock-up",
+            "Date": "15.10.2023",
+            "Tags": ["Mixed Reality", "Branding & Design"],
+            "Description": "A small-scale virtual reality mock-up showcasing an interactive 3D environment for educational purposes."
+        },
+        {
+            "Name": "Podcast Production",
+            "Date": "22.10.2023",
+            "Tags": ["Audio", "Media & Prototypes"],
+            "Description": "The production of a podcast series on digital media trends, including audio editing and show scriptwriting."
+        },
+        {
+            "Name": "Art Museum Website",
+            "Date": "25.10.2023",
+            "Tags": ["WebDev"],
+            "Description": "A functional museum site developed for a dublin museum, featuring product and booking pages."
+        },
+        {
+            "Name": "Interactive Resume",
+            "Date": "05.11.2023",
+            "Tags": ["WebDev", "UI/UX"],
+            "Description": "An interactive, visually engaging online resume that displays skills, experience, and projects in an interactive format."
+        },
+        {
+            "Name": "Mobile App Prototype",
+            "Date": "10.11.2023",
+            "Tags": ["App Design", "Media & Prototypes"],
+            "Description": "A prototype of a mobile app designed for task management, built using a popular prototyping tool."
+        },
+        {
+            "Name": "Augmented Reality Experience",
+            "Date": "18.11.2023",
+            "Tags": ["Mixed Reality", "Branding & Design"],
+            "Description": "An augmented reality experience for an art gallery, allowing visitors to interact with art pieces using their phones."
+        }
+    ]
+}

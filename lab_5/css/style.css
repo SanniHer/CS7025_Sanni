@@ -1,0 +1,25 @@
+.project-cover {
+    object-fit: contain;
+    width: 5vw;
+    height: 5vw;
+}
+
+
+.project-desc {
+    max-width: 45vw;
+}
+
+
+.project {
+    max-width: 23vw;
+    background-color: #d8e7d2;
+    margin: 2px;
+}
+
+
+#projects {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+

@@ -1,0 +1,58 @@
+.colourblock {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.colourblockhover {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.colourblockevents {
+    width: 100px;
+    height: 200px;
+    background-color: pink;
+}
+
+.sliderbutton {
+    background-color: orange;
+    padding: 10px;
+}
+
+
+.slidercontent {
+    background-color: lightblue;
+    padding:10px;
+}
+
+#carousel-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 700px;
+    margin: auto;
+    position: relative;
+    
+}
+
+
+#image-display img {
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+    /* ^^Ensures the entire image is visible, maintaining aspect ratio */
+}
+
+
+#prev,
+#next {
+    top: 50%;
+    width: 70px;
+    transform: translateY(-50%);
+    /*^ ensures they are positioned halway down*/
+    padding: 5px;
+    cursor: pointer;
+    /*^ changes the cursor when hovering over the buttons to show they are interactable*/
+}

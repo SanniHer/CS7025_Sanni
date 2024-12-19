@@ -1,5 +1,5 @@
 function checkNumber(numberCheck){
-    if (numberCheck % 2 == 0) {
+    if (numberCheck % 2 == 0 && 5 == 5) {
 
         console.log("even number")
     

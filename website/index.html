@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>He Xinyu Portfolio Page</title>
+    <!-- <header>He Xinyu Portfolio Page</header> -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script
+    src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+    crossorigin="anonymous"
+    ></script>
+    <script src="assets/js/script.js"></script>
+</head>
+<body data-page="homepage">
+
+    <!-- Image at the top -->
+    <header><div class="topbanner">
+        <h2>HOW IDEAS TAKE FORM</h2>
+    </div></header>
+
+    <!-- Navigation bar -->
+    <div class="navbar">
+        <a href="index.html" class="buttonlink">HOME</a>
+        <div class="dropdown">
+            <a href="projects.html" class="buttonlink">PROJECTS</a>
+            <!-- put all of the projects in a dropdown list of links -->
+            <div class="navbarlist">
+                <a href="projects.html">INTRODUCTION</a>
+                <a href="astrostep.html">ASTROSTEP</a>
+                <a href="livingpack.html">LIVINGPACK</a>
+                <a href="odolink.html">ODOLINK</a>
+                <a href="zhanyuan.html">ZHANYUAN</a>
+            </div>
+        </div>
+        <a href="about.html" class="buttonlink">ABOUT</a>
+    </div>
+
+    <!-- add a wrapper for the images to decide where it should be -->
+     <div class="portfoliorotation">
+      
+        <div class="portfolioimage">
+            <a id ="changingurl" href="">
+            <div class="overlay">
+                <!-- empty h2 so I can manually alter it -->
+                <h2></h2>
+            </div>
+            </a>
+        </div>
+        
+
+
+    </div>
+
+    <!-- Seperate section for image and about me section -->
+    <div class="aboutcontainer">
+        <div class="profileimagecontainer">
+            <img src="assets/images/shared/me.jpg" alt="Profile photo">
+        </div>
+        <div class="aboutcontent">
+            <h3 class="abouttitle">ABOUT ME</h3>
+            <br>
+            <p class="abouttext">
+                Hi there! I'm Xinyu He, an HCI designer passionate about creating immersive, 
+                multi-sensory experiences. My background in landscape design and my love for 
+                classical Chinese gardens inspire me to create spaces that blend narrative and multi-sensory stimuli.
+                Currently, I'm pursuing my master's in Interactive Digital Media at Trinity College Dublin,
+                exploring how to bring my ideas to life by weaving between the real and digital worlds.
+            </p>
+
+        </div>
+    </div>
+    <!-- footer for email button -->
+    <div class="contactmesection">
+        <button class="contactbutton">CONTACT ME</button>
+    </div>
+
+    <div id="notification" style="display: none;">
+        <span class="dismiss"><a title="dismiss this notification">x</a></span>
+      </div>
+
+
+</body>
+</html>

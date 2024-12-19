@@ -1,0 +1,38 @@
+[
+  {
+    "path": "bichon-frise-portrait.jpg",
+    "title": "Bichon Frise",
+    "description": "The Bichon Frise has a white, fluffy coat and endearing smile that wins over hearts.",
+    "position": "50%"
+  },
+  {
+    "path": "boston-terrier-portrait.jpg",
+    "title": "Boston Terrier",
+    "description": "The Boston Terrier is a traditional American dog known for its signature dark-colored and white coat complemented by large sparkling eyes.",
+    "position": "-70%"
+  },
+  {
+    "path": "shih-tzu-portrait.jpg",
+    "title": "Shih Tzu",
+    "description": "The Shih Tzu has a tiny face and bright eyes that have charmed people for generations—and continue to do so.",
+    "position": "center"
+  },
+  {
+    "path": "chihuahua-portrait.jpg",
+    "title": "Chihuahua",
+    "description": "One of the tiniest dog breeds under 10 pounds, the Chihuahua is known for its small size but large personality—not to mention pointy ears and cute round eyes. ",
+    "position": "center"
+  },
+  {
+    "path": "dachshund-portrait.jpg",
+    "title": "Dachshund",
+    "description": "The Dachshund is an unmistakable breed that comes in miniature and standard sizes and a multitude of colors. They are extremely good looking and amusing dogs.",
+    "position": "center"
+  },
+  {
+    "path": "toy-poodle-portrait.jpg",
+    "title": "Toy Poodle",
+    "description": "While the Poodle is often associated with dog shows, these curly-coated, muscular dogs are also great companions to welcome into your home. However, they are not exclusively in the small dog breed category; the small versions of this breed include Toy and Miniature Poodles. ",
+    "position": "41%"
+  }
+]

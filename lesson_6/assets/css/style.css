@@ -1,0 +1,26 @@
+.wrapper {
+	width: 100vw;
+	height: 100vh;
+	background: #fff url(../img/pomeranian-portrait.jpg) center center fixed;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#dog-title,
+#dog-description {
+	font-size: 2.2em;
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 10px;
+	margin: 10px;
+}
+
+#dog-description {
+	font-size: 1.2em;
+	line-height: 1.6em;
+	width: 40vw;
+	font-family: sans-serif;
+	text-align: center;
+}
